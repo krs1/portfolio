@@ -1,8 +1,9 @@
 import React from "react";
 import "./App.scss";
+import { HeaderComponent } from "./common/header/header";
 
 function App() {
-  return <h1 className="text-3xl font-bold underline">Hello world!</h1>;
+  return (<HeaderComponent/>);
 }
 
 export default App;

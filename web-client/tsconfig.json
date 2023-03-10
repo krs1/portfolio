@@ -21,8 +21,5 @@
       "es2022",
       "dom"
     ],
-    "paths": {
-      "@/lib/*": ["projects/lib/src/*"],
-    }
   },
 }
